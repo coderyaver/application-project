@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="this_a_is_a_test_.">this a is a test .</string>
+    <string name="title_activity_calculator">Calculator</string>
+</resources>
